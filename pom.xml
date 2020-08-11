@@ -11,7 +11,7 @@
     <modules>
         <module>weightedGraph</module>
         <module>transportView</module>
-        <module>transportModels</module>
+        <module>transportDatabaseUtil</module>
     </modules>
 
 

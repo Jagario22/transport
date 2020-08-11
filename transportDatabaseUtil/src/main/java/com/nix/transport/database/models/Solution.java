@@ -1,4 +1,4 @@
-package com.nix.transportModels.models;
+package com.nix.transport.database.models;
 
 public class Solution {
     private final long problem_id;

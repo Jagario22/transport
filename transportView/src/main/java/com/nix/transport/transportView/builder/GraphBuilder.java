@@ -1,6 +1,6 @@
-package com.nix.transportView.builder;
+package com.nix.transport.transportView.builder;
 
-import com.nix.transportModels.models.*;
+import com.nix.transport.database.models.Route;
 import com.nix.weightedGraph.GraphWeighted;
 import com.nix.weightedGraph.NodeWeighted;
 
